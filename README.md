@@ -1,0 +1,1 @@
+# hibbernate-lazy-collection
